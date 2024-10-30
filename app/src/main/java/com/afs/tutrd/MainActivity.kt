@@ -13,7 +13,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.afs.tutrd.core.design_system.theme.AppColors
 import com.afs.tutrd.core.design_system.theme.TUTRDTheme
-import com.afs.tutrd.core.design_system.theme.Typography
+import com.afs.tutrd.core.design_system.theme.AppTypography
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -37,7 +37,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
         text = "Hello $name!",
         modifier = modifier,
-        style = Typography.Main.h1,
+        style = AppTypography.Main.h1,
         color = AppColors.gray1
     )
 }

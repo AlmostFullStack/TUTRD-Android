@@ -7,7 +7,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 import com.afs.tutrd.core.design_system.R
 
-object Typography {
+object AppTypography {
     object Main {
         val h1 = TextStyle(
             fontFamily = Pretendard,
