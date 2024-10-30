@@ -21,6 +21,7 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "TUTRD"
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 include(":app")
 include(":feature:ui-classroom")
 include(":feature:ui-payment")
