@@ -26,6 +26,8 @@ androidxComposeCompiler = "1.5.15"
 material3 = "1.2.1"
 firebaseBom = "33.1.0"
 kotlinxCoroutines = "1.8.1"
+retrofit = "2.9.0"
+okhttp = "4.12.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -57,10 +59,17 @@ desugaring = { group = "com.android.tools", name = "desugar_jdk_libs", version.r
 mockk = { group ="io.mockk", name = "mockk", version.ref = "mockk"}
 mockito = { group = "org.mockito", name = "mockito-core", version.ref = "mockito" }
 firebase-bom = { group = "com.google.firebase", name = "firebase-bom", version.ref = "firebaseBom" }
+firebase-auth-ktx = { group = "com.google.firebase", name = "firebase-auth-ktx"}
 firebase-analytics = { group = "com.google.firebase", name = "firebase-analytics-ktx"}
 firebase-crashlytics = { group = "com.google.firebase", name = "firebase-crashlytics-ktx" }
 kotlinx-coroutines-core = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-core", version.ref = "kotlinxCoroutines" }
 kotlinx-coroutines-android = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-android", version.ref = "kotlinxCoroutines" }
+javax-inject = { module = "javax.inject:javax.inject", version.ref = "javaxInject" }
+
+okhttp = { group = "com.squareup.okhttp3", name = "okhttp", version.ref = "okhttp" }
+okhttp-logging = { group = "com.squareup.okhttp3", name = "logging-interceptor", version.ref = "okhttp" }
+retrofit-core = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = "retrofit" }
+retrofit-moshi-converter = { group = "com.squareup.retrofit2", name = "converter-moshi", version.ref = "retrofit" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
