@@ -1,0 +1,178 @@
+[
+  {
+    "name": "입시",
+    "code": "entrance_exam",
+    "subcategories": [
+      {
+        "name": "검정고시",
+        "code": "qualification"
+      },
+      {
+        "name": "과학",
+        "code": "science"
+      },
+      {
+        "name": "국어",
+        "code": "korean"
+      },
+      {
+        "name": "논술",
+        "code": "essay"
+      },
+      {
+        "name": "수학",
+        "code": "math"
+      },
+      {
+        "name": "영어",
+        "code": "english"
+      },
+      {
+        "name": "체육",
+        "code": "physical"
+      },
+      {
+        "name": "편입",
+        "code": "transfer"
+      },
+      {
+        "name": "대입 컨설팅",
+        "code": "university_consulting"
+      },
+      {
+        "name": "대학원 컨설팅",
+        "code": "graduate_consulting"
+      }
+    ]
+  },
+  {
+    "name": "외국어",
+    "code": "language",
+    "subcategories": [
+      {
+        "name": "토플",
+        "code": "TOEFL"
+      },
+      {
+        "name": "토익",
+        "code": "TOEIC"
+      },
+      {
+        "name": "텝스",
+        "code": "TEPS"
+      },
+      {
+        "name": "오픽",
+        "code": "OPIc"
+      },
+      {
+        "name": "비즈니스",
+        "code": "business"
+      },
+      {
+        "name": "회화",
+        "code": "speaking"
+      },
+      {
+        "name": "SAT",
+        "code": "SAT"
+      },
+      {
+        "name": "제2외국어",
+        "code": "second_language"
+      }
+    ]
+  },
+  {
+    "name": "음악",
+    "code": "music",
+    "subcategories": [
+      {
+        "name": "보컬",
+        "code": "vocal"
+      },
+      {
+        "name": "기타",
+        "code": "guitar"
+      },
+      {
+        "name": "드럼",
+        "code": "drum"
+      },
+      {
+        "name": "피아노",
+        "code": "piano"
+      },
+      {
+        "name": "바이올린",
+        "code": "violin"
+      },
+      {
+        "name": "플룻",
+        "code": "flute"
+      },
+      {
+        "name": "클라리넷",
+        "code": "clarinet"
+      },
+      {
+        "name": "첼로",
+        "code": "cello"
+      },
+      {
+        "name": "작곡",
+        "code": "composition"
+      },
+      {
+        "name": "기타 현악기",
+        "code": "string"
+      },
+      {
+        "name": "기타 관악기",
+        "code": "wind"
+      },
+      {
+        "name": "기타 타악기",
+        "code": "percussion"
+      }
+    ]
+  },
+  {
+    "name": "IT",
+    "code": "IT",
+    "subcategories": [
+      {
+        "name": "프론트엔드 개발",
+        "code": "frontend"
+      },
+      {
+        "name": "백엔드 개발",
+        "code": "backend"
+      },
+      {
+        "name": "앱 개발",
+        "code": "application"
+      },
+      {
+        "name": "클라우드 개발",
+        "code": "cloud"
+      },
+      {
+        "name": "인공지능 개발",
+        "code": "ai"
+      },
+      {
+        "name": "시스템 개발",
+        "code": "system"
+      },
+      {
+        "name": "보안 개발",
+        "code": "security"
+      },
+      {
+        "name": "알고리즘/코딩테스트",
+        "code": "algorithm"
+      }
+    ]
+  }
+]

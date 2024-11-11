@@ -9,5 +9,6 @@ android {
 }
 
 dependencies {
-
+    implementation(projects.core.designSystem)
+    implementation(libs.kotlinx.serialization.json)
 }
