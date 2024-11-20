@@ -1,0 +1,26 @@
+<resources>
+    <string name="sign_phone_title">휴대전화 번호를 입력해 주세요</string>
+    <string name="sign_phone_subtitle">전화번호는 본인 확인을 위해서만 사용됩니다</string>
+
+    <string name="sign_phone_hint">전화번호를 입력하세요</string>
+    <string name="sign_phone_send_verification_code">인증번호 전송</string>
+    <string name="sign_phone_resend_verification_code">인증번호 재전송</string>
+    <string name="sign_phone_verification_code_hint">인증번호를 입력하세요</string>
+
+    <string name="sign_name_title">사용자 이름을 입력해 주세요</string>
+    <string name="sign_name_subtitle">사용자 이름은 다른 이용자에게 표시됩니다</string>
+    <string name="sign_name_hint">이름을 입력하세요</string>
+
+    <string name="sign_category_title">나의 직무 또는 분야를 선택해 주세요</string>
+    <string name="sign_category_subtitle">3개까지 선택할 수 있어요</string>
+
+    <string name="sign_role_title">이제 다 됐습니다!\n앱을 시작하실 역할을 선택해주세요</string>
+    <string name="sign_role_subtitle">역할은 언제든 전환할 수 있습니다</string>
+
+    <string name="category_selected">선택한 분야 %1d/3</string>
+
+    <string name="sign_button_start">시작하기</string>
+    <string name="sign_button_next">다음으로</string>
+    <string name="sign_button_complete">완료</string>
+    <string name="sign_button_skip">건너뛰기</string>
+</resources>

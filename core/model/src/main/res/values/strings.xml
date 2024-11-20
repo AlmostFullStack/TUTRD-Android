@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_role_tutee">학생</string>
+    <string name="sign_role_tutor">선생님</string>
+
+    <string name="session_status_done">완료된 수업</string>
+    <string name="session_status_scheduled">예정된 수업</string>
+    <string name="session_status_cancelled">취소된 수업</string>
+    <string name="session_status_pending">수업 완료하기</string>
+</resources>
