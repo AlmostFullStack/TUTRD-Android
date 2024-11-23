@@ -9,5 +9,8 @@ android {
 }
 
 dependencies {
-
+    implementation(projects.core.model)
+    implementation(libs.androidx.foundation.layout.android)
+    coreLibraryDesugaring(libs.desugaring)
+    implementation(libs.calendar.compose)
 }
