@@ -46,6 +46,8 @@ android {
 dependencies {
     implementation(projects.core.designSystem)
     implementation(projects.core.network)
+    implementation(projects.feature.uiSchedule)
+    implementation(projects.feature.uiSession)
     implementation(projects.feature.uiSign)
     implementation(projects.domain)
     implementation(projects.data)

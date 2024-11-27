@@ -11,4 +11,8 @@ android {
 
 dependencies {
 
+    implementation(projects.domain)
+    implementation(projects.core.common)
+    implementation(projects.core.designSystem)
+    implementation(projects.core.model)
 }
